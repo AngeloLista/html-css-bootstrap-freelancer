@@ -1,3 +1,14 @@
 header {
     min-height: 100px;
 }
+
+/* custom properties */
+
+:root {
+    
+}
+
+#avatar {
+    max-width: 150px;
+    margin: 1.5rem;
+}
